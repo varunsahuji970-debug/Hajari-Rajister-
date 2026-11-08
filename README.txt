@@ -22,3 +22,6 @@ IMPORTANT DATA NOTES
 - A site with weekly records is archived instead of permanently deleted so old records remain safe.
 - PDF button opens the Android/Chrome print screen; choose Save as PDF.
 - CSV opens in Excel or Google Sheets.
+
+BALANCE FIX (v3)
+- If advance is greater than earned wages, the balance now displays as a negative amount (e.g. ₹1,500 - ₹2,000 = -₹500). The weekly total and CSV export use the same calculation.
